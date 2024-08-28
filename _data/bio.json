@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Lionel Derrick Roxas",
+    "label": "Data and Computer Science Student | Software Developer and Data Analyst",
+    "picture": "https://github.com/lionelroxas.png",
+    "email": "ldroxas@hawaii.edu",
+    "phone": "808-597-0467",
+    "website": "https://lionelroxas.github.io",
+    "summary": "I’m a junior at the University of Hawaii at Manoa with a passion for software development and data analytics. I’ve gained valuable experience managing teams and optimizing workflows, from my role as a Daily Operations Manager at Starbucks to analyzing global data as a Data Analyst Intern with the National Science Foundation. I enjoy tackling complex problems and creating solutions that make a real impact. With skills in C/C++, Python, React, and more, I’m eager to dive into an internship where I can collaborate, learn, and contribute to innovative projects. I thrive in environments that encourage growth, creativity, and teamwork. I graduate Spring 2026.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "lionelroxas", "url": "http://github.com/lionelroxas" },
+      { "network": "linkedin", "username": "lionelderrickroxas", "url": "http://linkedin.com/in/lionel-derrick-roxas-86b1612b5" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning and AI" },
+    { "name": "Big Data Analytics" },
+    { "name": "Cloud Computing and DevOps" },
+    { "name": "Cybersecurity and Data Privacy" },
+    { "name": "Web and Mobile Application Development" }
   ],
   "skills": [
     {
