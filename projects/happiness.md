@@ -21,8 +21,8 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/happiness_title.png" class="img-thumbnail" >
-  <img width="400px" src="../img/table_of_contents.png" class="img-thumbnail" >
+  <img width="500px" src="../img/happiness_title.png" class="img-thumbnail" >
+  <img width="500px" src="../img/table_of_contents.png" class="img-thumbnail" >
 </div>
 
 Inspired by the anime show "Classroom of the Elite," I developed this Point System App to help my mom, a math teacher at Nanakuli High School, incentivize student participation and foster a sense of healthy competition. The app allows teachers to reward students for their engagement, effort, and achievements, enhancing their motivation and creating a more dynamic learning environment. Beyond educational settings, the app is versatile enough to be used by businesses, clubs, and other organizations to encourage participation and recognize accomplishments.
