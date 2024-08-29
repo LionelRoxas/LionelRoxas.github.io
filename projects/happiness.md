@@ -25,12 +25,12 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
   <img width="500px" src="../img/table_of_contents.png" class="img-thumbnail" >
 </div>
 
-Inspired by the anime show "Classroom of the Elite," I developed this Point System App to help my mom, a math teacher at Nanakuli High School, incentivize student participation and foster a sense of healthy competition. The app allows teachers to reward students for their engagement, effort, and achievements, enhancing their motivation and creating a more dynamic learning environment. Beyond educational settings, the app is versatile enough to be used by businesses, clubs, and other organizations to encourage participation and recognize accomplishments.
-
+<h2>
+  <strong>Research Question and Hypothesis</strong>
+</h2>
 <div class="text-center p-4">
-  <a href="https://lionelroxas.github.io/point-system-app-frontend">
-    <img src="../img/member_view.png" class="img-thumbnail" >
-  </a>
+  <img width="500px" src="../img/research_question.png" class="img-thumbnail" >
+  <img width="500px" src="../img/hypothesis.png" class="img-thumbnail" >
 </div>
 
 For this project, I served as the lead developer, responsible for designing and implementing the app's core functionalities. I started by developing the backend using <strong>Node.js</strong> and <strong>Express.js</strong>, creating <strong>APIs</strong> to manage user authentication, student data, and point allocation. I also worked on integrating a <strong>MongoDB</strong> database to store and retrieve information efficiently. On the frontend, I used <strong>React</strong> to build a user-friendly interface, allowing admins and members to interact with the app seamlessly. I implemented features such as a group code system for secure student access, real-time updates to reflect point changes, and a leaderboard to display student rankings. By focusing on both the backend and frontend, I ensured a cohesive and scalable application that successfully engages users and meets their needs.
