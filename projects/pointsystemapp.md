@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/homepage.png
+image: img/admin_login.png
 title: "Point System App"
 date: 2024-07-01
 published: true
@@ -19,9 +19,9 @@ summary: "Designed and developed a web application for managing a point-based re
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/member_view.png" class="img-thumbnail" >
+  <img width="200px" src="../img/homepage.png" class="img-thumbnail" >
   <img width="200px" src="../img/admin_view.png" class="img-thumbnail" >
-  <img width="200px" src="../img/admin_login.png" class="img-thumbnail" >
+  <img width="200px" src="../img/member_login.png" class="img-thumbnail" >
 </div>
 
 Inspired by the anime show "Classroom of the Elite," I developed this Point System App to help my mom, a math teacher at Nanakuli High School, incentivize student participation and foster a sense of healthy competition. The app allows teachers to reward students for their engagement, effort, and achievements, enhancing their motivation and creating a more dynamic learning environment. Beyond educational settings, the app is versatile enough to be used by businesses, clubs, and other organizations to encourage participation and recognize accomplishments.
