@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/admin_login.png
 title: "Point System App"
-date: 2024-07-01
+date: 2024
 published: true
 labels:
   - Javascript
@@ -17,7 +17,6 @@ labels:
   - GitHub
 summary: "Designed and developed a web application for managing a point-based reward system for admins and members."
 ---
-<img src="img/admin_login.png" alt="Admin Login" width="300px">
 
 <div class="text-center p-4">
   <a href="https://lionelroxas.github.io/point-system-app-frontend">
