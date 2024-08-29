@@ -28,9 +28,10 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 <h2>
   1. Research Question and Hypothesis
 </h2>
+<p>This section outlines the main research question addressed in the study and presents the hypothesis, which posits that the COVID-19 pandemic has had a significant impact on global happiness scores from pre-Covid in 2017 to post-Covid in 2021.</p>
+
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/research_question.png" class="img-thumbnail" >
   <img width="500px" src="../img/supporting_questions.png" class="img-thumbnail" >
   <img width="500px" src="../img/hypothesis.png" class="img-thumbnail" >
 </div>
@@ -38,6 +39,7 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 <h2>
   2. Abstract and Study Site
 </h2>
+<p>The abstract provides a brief overview of the research objectives and findings, while the study site section highlights the geographical areas and datasets used for analysis.</p>
 
 <div class="text-center p-4">
   <img width="500px" src="../img/abstract.png" class="img-thumbnail" >
@@ -49,6 +51,7 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 <h2>
   3. Data Manipulation Process and Final DataFrames
 </h2>
+<p>This section describes the methodology used to clean, manipulate, and analyze the data. It includes visual representations of the research process and the final DataFrames.</p>
 
 <div class="text-center p-4">
   <img width="500px" src="../img/research_process.png" class="img-thumbnail" >
@@ -60,6 +63,7 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 <h2>
   4. Examining Outliers using GeoPandas
 </h2>
+<p>Here, we explore outliers identified in the dataset by using GeoPandas to visualize regional disparities. This analysis helps in understanding which areas deviated most from the global trends.</p>
 
 <div class="text-center p-4">
   <img width="500px" src="../img/visual_above_75.png" class="img-thumbnail" >
