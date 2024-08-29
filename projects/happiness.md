@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/admin_view.png
+image: img/plot_display.png
 title: "Exploring the Global Impacts of Covid-19"
 date: 2024
 published: true
 labels:
   - Python
   - Numpy
-  - Sckit-Learn
+  - Scikit-Learn
   - Pandas
   - GeoPandas
   - Seaborn
