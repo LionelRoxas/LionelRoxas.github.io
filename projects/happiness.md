@@ -26,7 +26,7 @@ summary: "Analyzed the impact of COVID-19 on global happiness scores and identif
 </div>
 
 <h2>
-  <strong>Research Question and Hypothesis</strong>
+  1. Research Question and Hypothesis
 </h2>
 <div class="text-center p-4">
   <img width="500px" src="../img/research_question.png" class="img-thumbnail" >
