@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/member_login.png
+image: img/admin_view.png
 title: "Point System App"
 date: 2024
 published: true
