@@ -17,6 +17,7 @@ labels:
   - GitHub
 summary: "Designed and developed a web application for managing a point-based reward system for admins and members."
 ---
+<img src="img/admin_login.png" alt="Admin Login" width="300px">
 
 <div class="text-center p-4">
   <a href="https://lionelroxas.github.io/point-system-app-frontend">
@@ -32,9 +33,9 @@ Inspired by the anime show "Classroom of the Elite," I developed this Point Syst
   </a>
 </div>
 
-For this project, I served as the lead developer, responsible for designing and implementing the app's core functionalities. I started by developing the backend using Node.js and Express, creating APIs to manage user authentication, student data, and point allocation. I also worked on integrating a MongoDB database to store and retrieve information efficiently. On the frontend, I used React to build a user-friendly interface, allowing admins and members to interact with the app seamlessly. I implemented features such as a group code system for secure student access, real-time updates to reflect point changes, and a leaderboard to display student rankings. By focusing on both the backend and frontend, I ensured a cohesive and scalable application that successfully engages users and meets their needs.
+For this project, I served as the lead developer, responsible for designing and implementing the app's core functionalities. I started by developing the backend using <strong>Node.js</strong> and <strong>Express.js</strong>, creating <strong>APIs</strong> to manage user authentication, student data, and point allocation. I also worked on integrating a <strong>MongoDB</strong> database to store and retrieve information efficiently. On the frontend, I used <strong>React</strong> to build a user-friendly interface, allowing admins and members to interact with the app seamlessly. I implemented features such as a group code system for secure student access, real-time updates to reflect point changes, and a leaderboard to display student rankings. By focusing on both the backend and frontend, I ensured a cohesive and scalable application that successfully engages users and meets their needs.
 
-Here is an example of 'useState' and 'useEffect' hooks to demonstrate how React was used:
+Here is an example of <strong>'useState'</strong> and <strong>'useEffect'</strong> hooks to demonstrate how React was used:
 
 ```cpp
 import React, { useState, useEffect } from 'react';
@@ -54,7 +55,7 @@ function App() {
   }, [token, classCode]);
 }
 ```
-Next, here is an example of API integration using Axios to interact with the backend:
+Next, here is an example of API integration using <strong>Axios</strong> to interact with the backend:
 
 ```cpp
 const addPoints = (studentId, points, reason) => {
