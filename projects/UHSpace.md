@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHSpace.png
+image: img/UHSpace.jpg
 title: "UHSpace"
 date: 2024
 published: true
