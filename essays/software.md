@@ -8,7 +8,7 @@ published: true
 labels:
   - TypeScript
 ---
-<img class="rounded float-start pe-4" src="../img/UHSpaceAbout.png">
+<img class="img-fluid" src="../img/UHSpaceAbout.png">
 
 Choosing to be a software engineer wasn’t an obvious decision for me, but it’s a path that has come to feel incredibly natural. My journey has been influenced by personal experiences, a love for problem-solving, and a desire to make a real difference in people’s lives.
 
