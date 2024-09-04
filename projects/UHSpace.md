@@ -26,3 +26,5 @@ At UHSpace, we believe in creating a supportive and inclusive environment where 
 <img class="img-fluid" src="../img/UHSpacePartner.png">
 
 <strong>We envision becoming the go-to platform for discovering and supporting student-owned businesses and services globally.</strong> We envision a future where every student entrepreneur has the opportunity to showcase their talent, grow their business, and make a significant impact on the economy and society. Our platform will connect customers with the next generation of innovative products and services, driving a new wave of student-led entrepreneurship. By building a network that fosters creativity and entrepreneurial spirit, we aim to transform the student business landscape, making student-led ventures a cornerstone of economic and social innovation.
+
+Website: COMING SOON...
