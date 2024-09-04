@@ -8,6 +8,7 @@ published: true
 labels:
   - TypeScript
 ---
+<img class="rounded float-start pe-4" src="../img/essay1.png">
 
 Learning a new programming language is always a mix of excitement, frustration, and ultimately, satisfaction when things start to click. My journey with TypeScript has been no different. As someone who is relatively new to TypeScript but not entirely new to programming, I found myself drawing comparisons to other languages I've worked with. This essay will explore my thoughts on TypeScript, its comparison with other languages, particularly ES6, and my experience with athletic software engineering, including the practice WODs (Workout of the Day).
 
