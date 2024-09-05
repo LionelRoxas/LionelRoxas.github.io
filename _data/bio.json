@@ -81,7 +81,7 @@
       ]
     }
   ],
-  "Start-Up": [
+  "activities": [
     {
       "organization": "UHSpace",
       "website": "",
