@@ -6,7 +6,12 @@ title: "Why I Chose to Be a Software Engineer"
 date: 2024-09-04
 published: true
 labels:
-  - TypeScript
+  - Entrepreneurship
+  - Helping Others
+  - UHSpace
+  - Leadership
+  - Software
+  - Passion For Tech
 ---
 <img class="img-fluid" src="../img/UHSpaceAbout.png">
 
