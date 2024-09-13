@@ -13,16 +13,9 @@ labels:
 In software engineering, technical expertise is only part of what defines a great developer. Equally critical is the ability to communicate effectively, especially when seeking help on complex issues. One of the most valuable communication skills for a software engineer is the ability to ask "smart questions"—questions that are clear, specific, and show prior thought. Asking questions in a smart way dramatically increases the likelihood of receiving timely and relevant answers. In this essay, I will explore why asking smart questions is crucial for software engineers, using two examples from StackOverflow to illustrate the stark contrast between smart and not-so-smart questions.
 
 The Smart Question: Fixing Git after macOS Update:
-<img width="700px" class="rounded float-start pe-4" src="../img/smart.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/smart.png">
 
 <a href="https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-p/52522566#52522566" target="_blank">Click here for the link!</a>
-
-
-
-
-
-
-
 
 A perfect example of a smart question is one titled, "Git is not working after macOS update (‘xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools’)". The user encountered an issue with Git after updating their macOS, where typing `git status` resulted in an error: "xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools)." This problem occurred after a system update or restart.
 
@@ -31,15 +24,9 @@ What makes this question smart is its clarity and the relevant details it provid
 The responses to this question were as clear and effective as the question itself. The top answer suggested reinstalling the missing command-line tools using `xcode-select --install`, a simple and direct solution. The high number of upvotes on the answer reflects the effectiveness of the response. The user’s detailed problem description allowed the community to provide targeted help, quickly resolving the issue for not only the asker but many others with the same problem. This demonstrates how a well-asked question can lead to efficient solutions and broader community benefit.
 
 The Not-So-Smart Question: Misplaced Content Box:
-<img width="700px" class="rounded float-start pe-4" src="../img/notSmart.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/notSmart.png">
 
 <a href="https://stackoverflow.com/questions/48085164/need-help-fixing-placement-of-content" target="_blank">Click here for the link!</a>
-
-
-
-
-
-
 
 On the other end of the spectrum, a not-so-smart question titled, "Need help fixing placement of content", serves as a cautionary example. In this case, the user encountered a layout issue after changing the font in the header of their webpage. The content box that was previously just below the header had inexplicably moved far down the page. The user stated that the new font took up less space and that nothing appeared to be in the way, but offered no additional information.
 
