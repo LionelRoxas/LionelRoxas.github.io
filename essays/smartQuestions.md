@@ -7,7 +7,6 @@ date: 2024-09-12
 published: true
 labels:
   - Stack Overflow
-  - SWE Eticate
 ---
 In software engineering, technical expertise is only part of what defines a great developer. Equally critical is the ability to communicate effectively, especially when seeking help on complex issues. One of the most valuable communication skills for a software engineer is the ability to ask "smart questions"—questions that are clear, specific, and show prior thought. Asking questions in a smart way dramatically increases the likelihood of receiving timely and relevant answers. In this essay, I will explore why asking smart questions is crucial for software engineers, using two examples from StackOverflow to illustrate the stark contrast between smart and not-so-smart questions.
 

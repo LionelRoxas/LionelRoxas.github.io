@@ -3,13 +3,12 @@ layout: essay
 type: essay
 title: "The Importance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-26
 published: true
 labels:
-  - Engineering
+  - VSCode
+  - ESLint
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 <h2><em>A Personal Reflection on ESLint and VSCode</em></h2>
 
@@ -20,7 +19,7 @@ labels:
 <h3><strong>ESLint: Painful, Useful, and Insightful</strong></h3>
 
 <p>
-    After my first week of using ESLint in VSCode, I have come to appreciate both the benefits and challenges it brings to the coding process. On one hand, getting rid of ESLint errors can be <strong>painful</strong>. The errors and warnings often pop up while you're in the middle of coding, breaking the flow and forcing you to fix issues before you even finish writing the code. This constant interruption can feel like a burden, especially when you're racing against time to implement features or solve bugs.
+    After my first week of using ESLint in VSCode, I have come to appreciate both the benefits and challenges it brings to the coding process. On one hand, getting rid of ESLint errors can be <strong>painful</strong>. The errors and warnings often pop up while you're in the middle of coding, breaking the flow and forcing you to fix issues before you even finish writing the code. This constant interruption can feel like a burden, especially when you're racing against time to finish WOD assignments or solve bugs.
 </p>
 
 <p>
