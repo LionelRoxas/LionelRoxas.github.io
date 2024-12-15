@@ -12,7 +12,7 @@ labels:
   - Firebase
   - Android Studio
   - GitHub
-summary: "The #1 discovery platform for discovering and supporting student-owned businesses and services globally."
+summary: "The #1 discovery platform for discovering and supporting student-owned businesses and services at UHM."
 ---
 
 <img class="img-fluid" src="../img/UHSpaceHome.png">
